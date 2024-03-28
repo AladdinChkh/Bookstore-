@@ -1,2 +1,2 @@
 # Bookstore-
-bookstore project using laravel 
+bookstore web app using laravel 
