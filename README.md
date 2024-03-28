@@ -1,2 +1,2 @@
 # Bookstore-
-bookstore web app using laravel 
+bookstore web app using laravel and react
